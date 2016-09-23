@@ -2,29 +2,18 @@
 layout: page
 title: About
 ---
+![]({{ site.baseurl }}public/myPic.jpg)
+Throughout the years I have been spending my professional life on the Visual Effects industry. I had produced 3D animation and digital visual effects for TV series and films. It was a time with fun and challenging. I now work for a software development company, as a designer and technical director for art department. I'm going to get into a new field and do more research in 3D animation pipeline.
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+## Get in touch!
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+E-mail: crystalsu2008@gmail.com  
+<!-- Twitter: [{{ site.twitter.username }}]({{ site.twitter.url }})
+Mobile: +46.708.12.12.75 -->
 
-There are currently two themes built on Poole:
+## Blog info
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+This blog is based on the excellent [Hyde]({{ site.hyde_repo }}) theme (v{{ site.hyde_version }}) for [Poole](http://getpoole.com), running on [Github Pages](https://pages.github.com).
+The source code for this blog is available [here]({{ site.github.repo }}).
 
 Thanks for reading!

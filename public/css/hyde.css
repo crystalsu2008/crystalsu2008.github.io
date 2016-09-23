@@ -72,12 +72,12 @@ html {
 
 /* Sidebar links */
 .sidebar a {
-  color: #fff;
+  color: #eee;
 }
 
 /* About section */
 .sidebar-about h1 {
-  color: #fff;
+  color: #eee;
   margin-top: 0;
   font-family: "palatino linotype", palatino, serif;
   font-style: normal;
@@ -111,9 +111,9 @@ a.sidebar-nav-item:focus {
 @media (min-width: 48em) {
   .sidebar-sticky {
     position: absolute;
-    right:  1rem;
+    /*right:  1rem;*/
     bottom: 1rem;
-    left:   1rem;
+    /*left:   1rem;*/
   }
 }
 
@@ -170,17 +170,8 @@ a.sidebar-nav-item:focus {
 }
 
 
-/* My themes */
+/* My Themes */
 
-body {
-  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffffff+0,e5e5e5+100;White+3D */
-  background: #ffffff; /* Old browsers */
-  background: -moz-linear-gradient(top,  #ffffff 0%, #e5e5e5 100%); /* FF3.6-15 */
-  background: -webkit-linear-gradient(top,  #ffffff 0%,#e5e5e5 100%); /* Chrome10-25,Safari5.1-6 */
-  background: linear-gradient(to bottom,  #ffffff 0%,#e5e5e5 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#e5e5e5',GradientType=0 ); /* IE6-9 */
-  background-attachment: fixed;
-}
 
 
 
@@ -263,4 +254,30 @@ body {
 .theme-base-0f .content a,
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
+}
+
+/* My Style */
+.theme-base-10 .sidebar {
+  background-color: #262626;
+  font-weight: normal;
+}
+/*
+.theme-base-10 .page-title,
+.theme-base-10 .post-title,
+.theme-base-10 .post-title a {
+  color: #ac4142;
+}
+*/
+.theme-base-10 h1, h2, h3, h4, h5, h6 {
+  color: #ac4142;
+  font-weight: normal;
+}
+.theme-base-10 code,
+.theme-base-10 pre {
+}
+.theme-base-10 code {
+}
+.theme-base-10 pre {
+  border:1px solid #262626;
+  border-radius: 10px;
 }

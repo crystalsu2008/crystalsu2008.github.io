@@ -12,20 +12,22 @@ permalink:        pretty
 # relative_permalinks: true
 
 # Setup
-title:            'Peace CG'
+title:            'Celestial CG'
 tagline:          'A Jekyll theme'
-description:      'A Computer Graphics research for Vegan and Peace.'
+description:      'Be Vegan, Make Peace. <br>My personal blog about 3D graphics research.'
 url:              https://crystalsu2008.github.io
 baseurl:          /
 
 author:
   name:           'Chris Su'
-  url:            https://twitter.com/mdo
+  url:            https://twitter.com/crystalsu2008
 
 paginate:         5
 
 # Custom vars
-version:          2.1.0
+hyde_version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/crystalsu2008/crystalsu2008.github.io
+
+hyde_repo:        https://github.com/poole/hyde
