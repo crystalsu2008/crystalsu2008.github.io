@@ -79,10 +79,7 @@ html {
 .sidebar-about h1 {
   color: #eee;
   margin-top: 0;
-  font-family: "palatino linotype", palatino, serif;
-  font-style: normal;
-  font-weight: normal;
-  font-variant: normal;
+  font-family: "Abril Fatface", serif;
   font-size: 3.25rem;
 }
 
@@ -259,6 +256,7 @@ a.sidebar-nav-item:focus {
 /* My Style */
 .theme-base-10 .sidebar {
   background-color: #262626;
+  font-family: Georgia, Serif;
   font-weight: normal;
 }
 /*
@@ -278,6 +276,12 @@ a.sidebar-nav-item:focus {
 .theme-base-10 code {
 }
 .theme-base-10 pre {
-  border:1px solid #262626;
+  /*border:1px solid #717171;*/
   border-radius: 10px;
+}
+.theme-base-10 .sidebar-about h1 {
+  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
 }
