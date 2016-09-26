@@ -285,3 +285,6 @@ a.sidebar-nav-item:focus {
   font-weight: normal;
   font-variant: normal;
 }
+.theme-base-10 html {
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+}

@@ -5,7 +5,7 @@ gems:
   - jekyll-gist
   - pygments.rb
 #markdown:         redcarpet
-highlighter:      pygments
+highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
